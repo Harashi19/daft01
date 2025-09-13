@@ -1,0 +1,13 @@
+project_id = "eowlrivumohoriztwrmg"
+
+[functions.contact-form]
+verify_jwt = false
+
+[functions.admin-auth]
+verify_jwt = false
+
+[functions.content-management]
+verify_jwt = false
+
+[functions.payments]
+verify_jwt = false
